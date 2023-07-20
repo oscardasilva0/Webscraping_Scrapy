@@ -15,7 +15,7 @@ pip install
 ## Usage
 
 ```shell
-$ scrapy crawl imdb
+scrapy crawl imdb
 
 
 ```
