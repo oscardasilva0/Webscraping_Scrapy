@@ -19,3 +19,7 @@ scrapy crawl imdb
 
 
 ```
+## Modificação
+1.acresentei o user_agente;
+2.atualizei o css de busca;
+
